@@ -1,0 +1,1 @@
+Estava  com vontade de ver qual meu nivel atual de  habilidade com  o front - end no geral, então  criei esse repositorio  para testar meu conhecimentos atuais ,  e sempre que eu fizer novas atualizações eu irei incluir aqui pra ver meu nivel de conheciment.
